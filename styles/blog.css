@@ -4,7 +4,7 @@
 }
 
 .header{
-    background-image: url('../images/ChinaGate\ wallpaper.jpg');
+    background-image: url('ChinaGate\ wallpaper.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -30,10 +30,10 @@
     box-shadow: 5px 5px 5px rgb(212, 15, 97);
 }
 
-.f2, .f3{
-    /* display: none; */
-    /* visibility: hidden; */
-}
+/* .f2, .f3{
+    display: none;
+    visibility: hidden;
+} */
 
 div, h1{
     margin-bottom: 15px;
